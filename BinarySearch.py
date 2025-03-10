@@ -15,6 +15,3 @@ def binarySearch(lista : list, numeroEsperado : int):
             direita = meio - 1
    
     return -1
-
-lista = [2, 4, 5, 7, 8, 12]
-print(binarySearch(lista, -12))

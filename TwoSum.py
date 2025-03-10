@@ -7,9 +7,6 @@ class Solution(object):
             
             if k - x > 0:
                 possivel_combinação[k - x] = indice                
-            
-a = Solution()
 
-print(a.twoSum([2,7,11,15], 9))
 
         
